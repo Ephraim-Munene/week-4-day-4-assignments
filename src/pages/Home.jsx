@@ -5,7 +5,7 @@ export default function Home() {
     <div className="text-center py-12 max-w-3xl mx-auto">
       {/* Main headline banner styled with large, bold text */}
       <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight mb-4">
-        Welcome to My React Router Assignment!
+        Welcome to My React Router Day 4 Assignment!
       </h1>
       
       <p className="text-lg text-gray-600 mb-8">
